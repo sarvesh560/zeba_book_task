@@ -1,16 +1,28 @@
-# zebabookstask
+#  Movie Collection App
 
-A new Flutter project.
+A Flutter application to manage and explore a collection of movies.  
+Built using **Flutter**, **MVC architecture**, and **GetX** for state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Features
+-  Browse a collection of movies
+-  Search movies by title
+-  View movie details:
+  - Title
+  - Director
+  - Year
+  - Genre
+-  Modern UI with card layouts & smooth navigation
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack
+- **Flutter**
+- **Dart**
+- **GetX** (state management + navigation)
+- **MVC architecture**
+- **JSON** for data storage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
